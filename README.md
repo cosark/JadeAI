@@ -362,6 +362,10 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000).
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/JadeAI/)
+
 ## AI Provider Setup
 
 All AI features (chat, resume generation, JD matching, mock interview, translation…) need an API key. JadeAI never stores keys on the server — you fill them in under **Settings > AI** in the app, and they stay in your browser's local storage.

@@ -355,6 +355,10 @@ pnpm dev
 
 打开 [http://localhost:3000](http://localhost:3000)。
 
+## 一键部署
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/JadeAI/)
+
 ## AI 模型配置
 
 所有 AI 功能（对话、简历生成、JD 匹配、模拟面试、翻译……）都需要一个 API Key。JadeAI 不在服务端保存密钥——你在应用内的 **设置 > AI** 中填写，密钥只存在浏览器的 localStorage 里。
